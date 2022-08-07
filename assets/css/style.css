@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*
+    Establecer el tamaño de la pantalla
+    Color de fondo
+    Color de texto
+    Fuente de texto
+*/
+body{
+    background-color: #181b2f;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+}
